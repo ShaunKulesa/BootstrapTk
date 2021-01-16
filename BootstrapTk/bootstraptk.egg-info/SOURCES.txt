@@ -1,7 +1,0 @@
-README.md
-setup.py
-bootstraptk/__init__.py
-bootstraptk.egg-info/PKG-INFO
-bootstraptk.egg-info/SOURCES.txt
-bootstraptk.egg-info/dependency_links.txt
-bootstraptk.egg-info/top_level.txt
